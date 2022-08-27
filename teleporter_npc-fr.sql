@@ -252,7 +252,7 @@ INSERT INTO gossip_menu_option (menuid, optionid, optionicon, optiontext, option
 (@GOSSIP_MENU, 17, 9, "Donjons classiques", 1, 1, @GOSSIP_MENU+1, 0, 0, 0, NULL),
 (@GOSSIP_MENU, 18, 9, "BC Donjons", 1, 1, @GOSSIP_MENU+2, 0, 0, 0, NULL),
 (@GOSSIP_MENU, 19, 9, "Wrath Donjons", 1, 1, @GOSSIP_MENU+3, 0, 0, 0, NULL),
-(@GOSSIP_MENU, 20, 9, "Raid Téléporteur", 1, 1, @GOSSIP_MENU+4, 0, 0, 0, NULL),
+(@GOSSIP_MENU, 20, 9, "Raids", 1, 1, @GOSSIP_MENU+4, 0, 0, 0, NULL),
 (@GOSSIP_MENU+1, 0, 2, "Gnomeregan", 1, 1, 0, 0, 0, 100, "Êtes-vous sûr de vouloir aller à Gnomeregan?"),
 (@GOSSIP_MENU+1, 1, 2, "Les Mortemines", 1, 1, 0, 0, 0, 100, "Êtes-vous sûr de vouloir aller à Les Mortemines?"),
 (@GOSSIP_MENU+1, 2, 2, "La Prison", 1, 1, 0, 0, 0, 100, "Êtes-vous sûr de vouloir aller à La Prison?"),
